@@ -18,7 +18,7 @@ This project demonstrates the complete implementation of a **multi-layer neural 
 
 ## 📁 Project Structure
 
-- `neural_network_from_scratch.ipynb` → **Full raw code in Jupyter Notebook format**
+- `raw code.ipynb` → **Full raw code in Jupyter Notebook format**
 - Custom functions for:
   - Activation & loss functions
   - Forward & backward pass
